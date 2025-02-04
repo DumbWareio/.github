@@ -16,8 +16,8 @@ We have 5 (or maybe 6?) apps—who's counting? Each one does something cool (or 
 Just want everything?
 
 ```bash
-git clone https://github.com/DumbWareio.git
-cd DumbWareio
+git clone https://github.com/DumbWareio/DumbCompose.git
+cd DumbCompose
 docker-compose up
 ```
 

@@ -10,7 +10,7 @@ We build apps that are smart enough to be useful, but just dumb enough to keep t
 - **Join the Chaos:** [Discord](https://discord.gg/zJutzxWyq2) 💬
 
 ## 📦 Our Stuff
-We have 5 (or maybe 6?) apps—who's counting? Each one does something cool (or dumb). They're all part of the DumbWare ecosystem, powered by Node.js, Express, and a sprinkle of JavaScript magic. Plus, you can run them all at once with Docker!
+We have 6 (or maybe 7?) apps—who's counting? Each one does something cool (or dumb). They're all part of the DumbWare ecosystem, powered by Node.js, Express, and a sprinkle of JavaScript magic. Plus, you can run them all at once with Docker!
 
 ## 🐳 Running Everything at Once
 Just want everything?
